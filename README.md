@@ -11,8 +11,10 @@ This project is a full-stack web application built using Next.js and React.
 
 ## Group Members
 - Gabriel Aura Mirah
-- Member 2
-- Member 3
+- Dehyu DM Cassell
+- Alliana Okaikai Tenadu
+- Loise Mwongeli Musungu
+- Jonthan Mukuta Muembia
 
 ## Project Theme
 Modern dashboard interface using blue and gray colors with clean typography.
