@@ -11,7 +11,7 @@ This project is a full-stack web application built using Next.js and React.
 
 ## Group Members
 - Gabriel Aura Mirah
-- Member 2
+- Jonathan Muembia
 - Member 3
 
 ## Project Theme
