@@ -14,7 +14,7 @@ This project is a full-stack web application built using Next.js and React.
 - Dehyu DM Cassell
 - Alliana Okaikai Tenadu
 - Loise Mwongeli Musungu
-- Jonthan Mukuta Muembia
+- Jonathan Muembia
 
 ## Project Theme
 Modern dashboard interface using blue and gray colors with clean typography.
